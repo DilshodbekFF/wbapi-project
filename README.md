@@ -54,8 +54,8 @@ php artisan db:seed
 Я загрузил проект на хостинг.
 
 Ссылка: https://cp.bot-dev.uz/phpmyadmin/index.php
-Имя базы данных: api_robocont
-Логин: api_robocont
-Пароль: TX7yOlFoIHK2ztc4
+* Имя базы данных: `api_robocont`
+* Логин: `api_robocont`
+* Пароль: `TX7yOlFoIHK2ztc4`
 
 💡 Проект готов к работе!
