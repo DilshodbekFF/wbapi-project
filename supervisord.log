@@ -1,0 +1,685 @@
+2025-02-21 12:51:00,167 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-02-21 12:51:00,168 INFO Included extra file "/etc/supervisor/conf.d/laravel-seeder.conf" during parsing
+2025-02-21 12:51:00,173 INFO supervisord started with pid 1
+2025-02-21 12:51:01,175 INFO spawned: 'laravel-seeder-timer' with pid 11
+2025-02-21 12:51:01,177 INFO spawned: 'laravel-seeder' with pid 12
+2025-02-21 12:51:02,179 INFO success: laravel-seeder-timer entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 12:51:02,179 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 12:51:21,702 WARN exited: laravel-seeder (exit status 1; not expected)
+2025-02-21 12:51:22,705 INFO spawned: 'laravel-seeder' with pid 24
+2025-02-21 12:51:23,706 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 12:51:34,354 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 12:51:35,357 INFO spawned: 'laravel-seeder' with pid 28
+2025-02-21 12:51:36,359 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 12:51:48,005 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 12:51:49,010 INFO spawned: 'laravel-seeder' with pid 31
+2025-02-21 12:51:50,013 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 12:52:01,572 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 12:52:02,575 INFO spawned: 'laravel-seeder' with pid 34
+2025-02-21 12:52:03,576 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 12:52:24,512 WARN exited: laravel-seeder (exit status 1; not expected)
+2025-02-21 12:52:25,519 INFO spawned: 'laravel-seeder' with pid 37
+2025-02-21 12:52:26,521 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 12:52:43,020 WARN exited: laravel-seeder (exit status 1; not expected)
+2025-02-21 12:52:44,025 INFO spawned: 'laravel-seeder' with pid 40
+2025-02-21 12:52:45,029 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 12:52:56,139 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 12:52:57,144 INFO spawned: 'laravel-seeder' with pid 43
+2025-02-21 12:52:58,148 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 12:53:09,201 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 12:53:10,206 INFO spawned: 'laravel-seeder' with pid 46
+2025-02-21 12:53:11,209 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 12:53:22,249 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 12:53:23,254 INFO spawned: 'laravel-seeder' with pid 49
+2025-02-21 12:53:24,257 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 12:53:35,207 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 12:53:36,212 INFO spawned: 'laravel-seeder' with pid 52
+2025-02-21 12:53:37,216 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 12:53:48,355 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 12:53:49,359 INFO spawned: 'laravel-seeder' with pid 55
+2025-02-21 12:53:50,361 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 12:54:01,502 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 12:54:02,507 INFO spawned: 'laravel-seeder' with pid 58
+2025-02-21 12:54:03,512 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 12:54:15,056 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 12:54:16,061 INFO spawned: 'laravel-seeder' with pid 61
+2025-02-21 12:54:17,065 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 12:54:33,597 WARN exited: laravel-seeder (exit status 1; not expected)
+2025-02-21 12:54:34,599 INFO spawned: 'laravel-seeder' with pid 64
+2025-02-21 12:54:35,601 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 12:54:46,880 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 12:54:47,885 INFO spawned: 'laravel-seeder' with pid 67
+2025-02-21 12:54:48,888 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 12:55:09,737 WARN exited: laravel-seeder (exit status 1; not expected)
+2025-02-21 12:55:10,739 INFO spawned: 'laravel-seeder' with pid 70
+2025-02-21 12:55:11,741 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 12:55:33,702 WARN exited: laravel-seeder (exit status 1; not expected)
+2025-02-21 12:55:34,705 INFO spawned: 'laravel-seeder' with pid 73
+2025-02-21 12:55:35,707 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 12:55:47,429 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 12:55:48,434 INFO spawned: 'laravel-seeder' with pid 76
+2025-02-21 12:55:49,437 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 12:56:00,774 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 12:56:01,275 INFO spawned: 'laravel-seeder' with pid 80
+2025-02-21 12:56:02,277 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 12:56:13,583 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 12:56:14,587 INFO spawned: 'laravel-seeder' with pid 84
+2025-02-21 12:56:15,591 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 12:56:26,939 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 12:56:27,941 INFO spawned: 'laravel-seeder' with pid 87
+2025-02-21 12:56:28,943 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 12:56:40,153 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 12:56:41,158 INFO spawned: 'laravel-seeder' with pid 90
+2025-02-21 12:56:42,162 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 12:56:53,320 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 12:56:54,325 INFO spawned: 'laravel-seeder' with pid 93
+2025-02-21 12:56:55,328 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 12:57:10,713 WARN exited: laravel-seeder (exit status 1; not expected)
+2025-02-21 12:57:11,718 INFO spawned: 'laravel-seeder' with pid 96
+2025-02-21 12:57:12,722 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 12:57:23,870 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 12:57:24,874 INFO spawned: 'laravel-seeder' with pid 99
+2025-02-21 12:57:25,877 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 12:57:37,111 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 12:57:38,113 INFO spawned: 'laravel-seeder' with pid 102
+2025-02-21 12:57:39,117 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 12:57:50,456 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 12:57:51,460 INFO spawned: 'laravel-seeder' with pid 105
+2025-02-21 12:57:52,462 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 12:58:03,698 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 12:58:04,703 INFO spawned: 'laravel-seeder' with pid 108
+2025-02-21 12:58:05,706 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 12:58:16,840 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 12:58:17,845 INFO spawned: 'laravel-seeder' with pid 111
+2025-02-21 12:58:18,848 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 12:58:32,009 WARN exited: laravel-seeder (exit status 1; not expected)
+2025-02-21 12:58:33,013 INFO spawned: 'laravel-seeder' with pid 114
+2025-02-21 12:58:34,020 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 12:58:45,053 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 12:58:46,058 INFO spawned: 'laravel-seeder' with pid 117
+2025-02-21 12:58:47,061 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 12:58:58,488 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 12:58:59,492 INFO spawned: 'laravel-seeder' with pid 120
+2025-02-21 12:59:00,495 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 12:59:12,127 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 12:59:13,130 INFO spawned: 'laravel-seeder' with pid 123
+2025-02-21 12:59:14,134 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 12:59:26,959 WARN exited: laravel-seeder (exit status 1; not expected)
+2025-02-21 12:59:27,963 INFO spawned: 'laravel-seeder' with pid 126
+2025-02-21 12:59:28,967 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 12:59:47,861 WARN exited: laravel-seeder (exit status 1; not expected)
+2025-02-21 12:59:48,866 INFO spawned: 'laravel-seeder' with pid 129
+2025-02-21 12:59:49,870 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:00:01,183 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:00:02,188 INFO spawned: 'laravel-seeder' with pid 132
+2025-02-21 13:00:03,192 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:00:15,457 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:00:16,462 INFO spawned: 'laravel-seeder' with pid 135
+2025-02-21 13:00:17,464 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:00:30,078 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:00:31,082 INFO spawned: 'laravel-seeder' with pid 138
+2025-02-21 13:00:32,086 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:00:43,340 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:00:44,345 INFO spawned: 'laravel-seeder' with pid 141
+2025-02-21 13:00:45,348 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:01:00,539 WARN exited: laravel-seeder (exit status 1; not expected)
+2025-02-21 13:01:01,384 INFO spawned: 'laravel-seeder' with pid 145
+2025-02-21 13:01:02,385 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:01:13,822 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:01:14,826 INFO spawned: 'laravel-seeder' with pid 149
+2025-02-21 13:01:15,833 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:01:37,538 WARN exited: laravel-seeder (exit status 1; not expected)
+2025-02-21 13:01:38,540 INFO spawned: 'laravel-seeder' with pid 152
+2025-02-21 13:01:39,547 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:01:50,940 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:01:51,942 INFO spawned: 'laravel-seeder' with pid 155
+2025-02-21 13:01:52,944 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:02:04,389 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:02:05,394 INFO spawned: 'laravel-seeder' with pid 158
+2025-02-21 13:02:06,398 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:02:21,952 WARN exited: laravel-seeder (exit status 1; not expected)
+2025-02-21 13:02:22,957 INFO spawned: 'laravel-seeder' with pid 161
+2025-02-21 13:02:23,960 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:02:35,547 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:02:36,551 INFO spawned: 'laravel-seeder' with pid 164
+2025-02-21 13:02:37,555 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:02:49,459 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:02:50,464 INFO spawned: 'laravel-seeder' with pid 167
+2025-02-21 13:02:51,466 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:03:03,070 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:03:04,075 INFO spawned: 'laravel-seeder' with pid 170
+2025-02-21 13:03:05,079 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:03:12,728 WARN exited: laravel-seeder (exit status 1; not expected)
+2025-02-21 13:03:13,733 INFO spawned: 'laravel-seeder' with pid 173
+2025-02-21 13:03:14,737 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:03:26,437 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:03:27,442 INFO spawned: 'laravel-seeder' with pid 176
+2025-02-21 13:03:28,446 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:03:40,194 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:03:41,198 INFO spawned: 'laravel-seeder' with pid 179
+2025-02-21 13:03:42,202 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:03:53,931 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:03:54,934 INFO spawned: 'laravel-seeder' with pid 182
+2025-02-21 13:03:55,937 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:04:07,899 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:04:08,905 INFO spawned: 'laravel-seeder' with pid 185
+2025-02-21 13:04:09,911 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:04:21,518 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:04:22,523 INFO spawned: 'laravel-seeder' with pid 188
+2025-02-21 13:04:23,526 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:04:35,440 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:04:36,443 INFO spawned: 'laravel-seeder' with pid 191
+2025-02-21 13:04:37,446 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:04:49,203 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:04:50,205 INFO spawned: 'laravel-seeder' with pid 194
+2025-02-21 13:04:51,207 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:05:03,997 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:05:05,000 INFO spawned: 'laravel-seeder' with pid 197
+2025-02-21 13:05:06,003 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:05:18,775 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:05:19,779 INFO spawned: 'laravel-seeder' with pid 200
+2025-02-21 13:05:20,783 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:05:31,991 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:05:32,996 INFO spawned: 'laravel-seeder' with pid 203
+2025-02-21 13:05:34,000 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:05:46,875 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:05:47,880 INFO spawned: 'laravel-seeder' with pid 206
+2025-02-21 13:05:48,886 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:06:00,888 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:06:01,893 INFO spawned: 'laravel-seeder' with pid 211
+2025-02-21 13:06:02,897 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:06:14,701 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:06:15,706 INFO spawned: 'laravel-seeder' with pid 214
+2025-02-21 13:06:16,710 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:06:28,683 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:06:29,687 INFO spawned: 'laravel-seeder' with pid 217
+2025-02-21 13:06:30,688 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:06:42,498 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:06:43,503 INFO spawned: 'laravel-seeder' with pid 220
+2025-02-21 13:06:44,507 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:06:56,708 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:06:57,716 INFO spawned: 'laravel-seeder' with pid 223
+2025-02-21 13:06:58,718 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:07:10,645 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:07:11,651 INFO spawned: 'laravel-seeder' with pid 226
+2025-02-21 13:07:12,654 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:07:24,743 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:07:25,748 INFO spawned: 'laravel-seeder' with pid 229
+2025-02-21 13:07:26,752 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:07:39,838 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:07:40,843 INFO spawned: 'laravel-seeder' with pid 232
+2025-02-21 13:07:41,846 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:07:54,813 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:07:55,818 INFO spawned: 'laravel-seeder' with pid 235
+2025-02-21 13:07:56,821 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:08:17,506 WARN exited: laravel-seeder (exit status 1; not expected)
+2025-02-21 13:08:18,511 INFO spawned: 'laravel-seeder' with pid 238
+2025-02-21 13:08:19,514 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:08:33,631 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:08:34,633 INFO spawned: 'laravel-seeder' with pid 241
+2025-02-21 13:08:35,635 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:08:48,703 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:08:49,705 INFO spawned: 'laravel-seeder' with pid 244
+2025-02-21 13:08:50,707 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:09:03,849 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:09:04,853 INFO spawned: 'laravel-seeder' with pid 247
+2025-02-21 13:09:05,857 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:09:18,947 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:09:19,950 INFO spawned: 'laravel-seeder' with pid 250
+2025-02-21 13:09:20,952 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:09:34,081 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:09:35,083 INFO spawned: 'laravel-seeder' with pid 253
+2025-02-21 13:09:36,085 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:09:49,100 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:09:50,105 INFO spawned: 'laravel-seeder' with pid 256
+2025-02-21 13:09:51,108 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:10:04,946 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:10:05,951 INFO spawned: 'laravel-seeder' with pid 259
+2025-02-21 13:10:06,954 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:10:20,437 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:10:21,441 INFO spawned: 'laravel-seeder' with pid 262
+2025-02-21 13:10:22,445 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:10:35,459 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:10:36,464 INFO spawned: 'laravel-seeder' with pid 265
+2025-02-21 13:10:37,468 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:10:50,550 WARN exited: laravel-seeder (exit status 1; not expected)
+2025-02-21 13:10:51,552 INFO spawned: 'laravel-seeder' with pid 268
+2025-02-21 13:10:52,554 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:11:05,943 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:11:06,948 INFO spawned: 'laravel-seeder' with pid 273
+2025-02-21 13:11:07,951 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:11:20,929 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:11:21,932 INFO spawned: 'laravel-seeder' with pid 276
+2025-02-21 13:11:22,934 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:11:36,397 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:11:37,399 INFO spawned: 'laravel-seeder' with pid 279
+2025-02-21 13:11:38,401 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:11:51,657 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:11:52,662 INFO spawned: 'laravel-seeder' with pid 282
+2025-02-21 13:11:53,665 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:12:06,347 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:12:07,352 INFO spawned: 'laravel-seeder' with pid 285
+2025-02-21 13:12:08,356 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:12:21,054 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:12:22,056 INFO spawned: 'laravel-seeder' with pid 288
+2025-02-21 13:12:23,059 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:12:36,038 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:12:37,043 INFO spawned: 'laravel-seeder' with pid 291
+2025-02-21 13:12:38,050 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:12:50,848 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:12:51,852 INFO spawned: 'laravel-seeder' with pid 294
+2025-02-21 13:12:52,856 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:13:06,046 WARN exited: laravel-seeder (exit status 1; not expected)
+2025-02-21 13:13:07,051 INFO spawned: 'laravel-seeder' with pid 297
+2025-02-21 13:13:08,055 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:13:20,188 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:13:21,194 INFO spawned: 'laravel-seeder' with pid 300
+2025-02-21 13:13:22,200 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:13:38,926 WARN exited: laravel-seeder (exit status 1; not expected)
+2025-02-21 13:13:39,931 INFO spawned: 'laravel-seeder' with pid 303
+2025-02-21 13:13:40,935 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:13:54,017 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:13:55,020 INFO spawned: 'laravel-seeder' with pid 306
+2025-02-21 13:13:56,023 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:14:07,890 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:14:08,892 INFO spawned: 'laravel-seeder' with pid 309
+2025-02-21 13:14:09,894 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:14:22,878 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:14:23,880 INFO spawned: 'laravel-seeder' with pid 312
+2025-02-21 13:14:24,882 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:14:37,635 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:14:38,638 INFO spawned: 'laravel-seeder' with pid 315
+2025-02-21 13:14:39,640 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:14:52,462 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:14:53,464 INFO spawned: 'laravel-seeder' with pid 318
+2025-02-21 13:14:54,466 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:15:10,136 WARN exited: laravel-seeder (exit status 1; not expected)
+2025-02-21 13:15:11,140 INFO spawned: 'laravel-seeder' with pid 321
+2025-02-21 13:15:12,144 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:15:24,665 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:15:25,668 INFO spawned: 'laravel-seeder' with pid 324
+2025-02-21 13:15:26,670 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:15:39,625 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:15:40,630 INFO spawned: 'laravel-seeder' with pid 327
+2025-02-21 13:15:41,634 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:15:54,104 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:15:55,108 INFO spawned: 'laravel-seeder' with pid 332
+2025-02-21 13:15:56,112 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:16:11,807 WARN exited: laravel-seeder (exit status 1; not expected)
+2025-02-21 13:16:12,812 INFO spawned: 'laravel-seeder' with pid 335
+2025-02-21 13:16:13,816 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:16:26,553 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:16:27,555 INFO spawned: 'laravel-seeder' with pid 338
+2025-02-21 13:16:28,558 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:16:48,104 WARN exited: laravel-seeder (exit status 1; not expected)
+2025-02-21 13:16:49,109 INFO spawned: 'laravel-seeder' with pid 341
+2025-02-21 13:16:50,116 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:17:03,691 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:17:04,694 INFO spawned: 'laravel-seeder' with pid 344
+2025-02-21 13:17:05,695 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:17:18,920 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:17:19,926 INFO spawned: 'laravel-seeder' with pid 347
+2025-02-21 13:17:20,930 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:17:33,751 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:17:34,755 INFO spawned: 'laravel-seeder' with pid 350
+2025-02-21 13:17:35,757 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:17:48,514 WARN exited: laravel-seeder (exit status 1; not expected)
+2025-02-21 13:17:49,518 INFO spawned: 'laravel-seeder' with pid 353
+2025-02-21 13:17:50,521 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:18:03,664 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:18:04,669 INFO spawned: 'laravel-seeder' with pid 356
+2025-02-21 13:18:05,672 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:18:28,715 WARN exited: laravel-seeder (exit status 1; not expected)
+2025-02-21 13:18:29,719 INFO spawned: 'laravel-seeder' with pid 359
+2025-02-21 13:18:30,724 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:18:47,819 WARN exited: laravel-seeder (exit status 1; not expected)
+2025-02-21 13:18:48,823 INFO spawned: 'laravel-seeder' with pid 362
+2025-02-21 13:18:49,826 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:19:09,481 WARN exited: laravel-seeder (exit status 1; not expected)
+2025-02-21 13:19:10,486 INFO spawned: 'laravel-seeder' with pid 365
+2025-02-21 13:19:11,489 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:19:24,572 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:19:25,576 INFO spawned: 'laravel-seeder' with pid 368
+2025-02-21 13:19:26,580 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:19:39,650 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:19:40,654 INFO spawned: 'laravel-seeder' with pid 371
+2025-02-21 13:19:41,658 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:19:54,563 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:19:55,567 INFO spawned: 'laravel-seeder' with pid 374
+2025-02-21 13:19:56,571 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:20:22,609 WARN exited: laravel-seeder (exit status 1; not expected)
+2025-02-21 13:20:23,614 INFO spawned: 'laravel-seeder' with pid 377
+2025-02-21 13:20:24,617 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:20:37,319 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:20:38,321 INFO spawned: 'laravel-seeder' with pid 380
+2025-02-21 13:20:39,323 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:20:56,215 WARN exited: laravel-seeder (exit status 1; not expected)
+2025-02-21 13:20:57,220 INFO spawned: 'laravel-seeder' with pid 385
+2025-02-21 13:20:58,223 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:21:10,916 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:21:11,920 INFO spawned: 'laravel-seeder' with pid 388
+2025-02-21 13:21:12,924 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:21:28,501 WARN exited: laravel-seeder (exit status 1; not expected)
+2025-02-21 13:21:29,505 INFO spawned: 'laravel-seeder' with pid 391
+2025-02-21 13:21:30,507 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:21:53,942 WARN exited: laravel-seeder (exit status 1; not expected)
+2025-02-21 13:21:54,944 INFO spawned: 'laravel-seeder' with pid 394
+2025-02-21 13:21:55,946 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:22:09,222 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:22:10,226 INFO spawned: 'laravel-seeder' with pid 397
+2025-02-21 13:22:11,229 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:22:24,604 WARN exited: laravel-seeder (exit status 1; not expected)
+2025-02-21 13:22:25,607 INFO spawned: 'laravel-seeder' with pid 400
+2025-02-21 13:22:26,608 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:22:39,674 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:22:40,677 INFO spawned: 'laravel-seeder' with pid 403
+2025-02-21 13:22:41,680 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:22:55,126 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:22:56,128 INFO spawned: 'laravel-seeder' with pid 406
+2025-02-21 13:22:57,130 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:23:10,509 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:23:11,514 INFO spawned: 'laravel-seeder' with pid 409
+2025-02-21 13:23:12,518 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:23:25,596 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:23:26,598 INFO spawned: 'laravel-seeder' with pid 412
+2025-02-21 13:23:27,600 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:23:40,730 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:23:41,735 INFO spawned: 'laravel-seeder' with pid 415
+2025-02-21 13:23:42,739 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:23:55,795 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:23:56,799 INFO spawned: 'laravel-seeder' with pid 418
+2025-02-21 13:23:57,804 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:24:10,754 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:24:11,756 INFO spawned: 'laravel-seeder' with pid 421
+2025-02-21 13:24:12,758 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:24:30,116 WARN exited: laravel-seeder (exit status 1; not expected)
+2025-02-21 13:24:31,116 INFO spawned: 'laravel-seeder' with pid 424
+2025-02-21 13:24:32,118 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:24:45,150 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:24:46,153 INFO spawned: 'laravel-seeder' with pid 427
+2025-02-21 13:24:47,156 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:24:59,997 WARN exited: laravel-seeder (exit status 1; not expected)
+2025-02-21 13:25:01,000 INFO spawned: 'laravel-seeder' with pid 430
+2025-02-21 13:25:02,002 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:25:18,992 WARN exited: laravel-seeder (exit status 1; not expected)
+2025-02-21 13:25:19,996 INFO spawned: 'laravel-seeder' with pid 433
+2025-02-21 13:25:20,998 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:25:34,046 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:25:35,048 INFO spawned: 'laravel-seeder' with pid 436
+2025-02-21 13:25:36,050 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:25:48,891 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:25:49,895 INFO spawned: 'laravel-seeder' with pid 439
+2025-02-21 13:25:50,901 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:26:03,948 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:26:04,950 INFO spawned: 'laravel-seeder' with pid 444
+2025-02-21 13:26:05,952 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:26:18,880 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:26:19,885 INFO spawned: 'laravel-seeder' with pid 447
+2025-02-21 13:26:20,889 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:26:43,836 WARN exited: laravel-seeder (exit status 1; not expected)
+2025-02-21 13:26:44,841 INFO spawned: 'laravel-seeder' with pid 450
+2025-02-21 13:26:45,844 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:26:58,669 WARN exited: laravel-seeder (exit status 1; not expected)
+2025-02-21 13:26:59,674 INFO spawned: 'laravel-seeder' with pid 453
+2025-02-21 13:27:00,680 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:27:14,045 WARN exited: laravel-seeder (exit status 1; not expected)
+2025-02-21 13:27:15,047 INFO spawned: 'laravel-seeder' with pid 456
+2025-02-21 13:27:16,050 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:27:29,281 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:27:30,286 INFO spawned: 'laravel-seeder' with pid 459
+2025-02-21 13:27:31,288 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:27:48,447 WARN exited: laravel-seeder (exit status 1; not expected)
+2025-02-21 13:27:49,451 INFO spawned: 'laravel-seeder' with pid 462
+2025-02-21 13:27:50,454 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:28:03,725 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:28:04,728 INFO spawned: 'laravel-seeder' with pid 465
+2025-02-21 13:28:05,730 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:28:18,810 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:28:19,814 INFO spawned: 'laravel-seeder' with pid 468
+2025-02-21 13:28:20,816 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:28:33,825 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:28:34,827 INFO spawned: 'laravel-seeder' with pid 471
+2025-02-21 13:28:35,829 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:28:48,864 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:28:49,868 INFO spawned: 'laravel-seeder' with pid 474
+2025-02-21 13:28:50,871 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:29:03,911 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:29:04,915 INFO spawned: 'laravel-seeder' with pid 477
+2025-02-21 13:29:05,919 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:29:18,703 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:29:19,707 INFO spawned: 'laravel-seeder' with pid 480
+2025-02-21 13:29:20,711 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:29:40,496 WARN exited: laravel-seeder (exit status 1; not expected)
+2025-02-21 13:29:41,501 INFO spawned: 'laravel-seeder' with pid 483
+2025-02-21 13:29:42,504 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:29:55,151 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:29:56,156 INFO spawned: 'laravel-seeder' with pid 486
+2025-02-21 13:29:57,160 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:30:10,176 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:30:11,181 INFO spawned: 'laravel-seeder' with pid 489
+2025-02-21 13:30:12,184 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:30:25,104 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:30:26,108 INFO spawned: 'laravel-seeder' with pid 492
+2025-02-21 13:30:27,112 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:30:49,982 WARN exited: laravel-seeder (exit status 1; not expected)
+2025-02-21 13:30:50,987 INFO spawned: 'laravel-seeder' with pid 495
+2025-02-21 13:30:51,997 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:31:04,153 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:31:05,158 INFO spawned: 'laravel-seeder' with pid 500
+2025-02-21 13:31:06,165 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:31:18,723 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:31:19,728 INFO spawned: 'laravel-seeder' with pid 503
+2025-02-21 13:31:20,731 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:31:33,456 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:31:34,460 INFO spawned: 'laravel-seeder' with pid 506
+2025-02-21 13:31:35,462 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:31:47,963 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:31:48,968 INFO spawned: 'laravel-seeder' with pid 509
+2025-02-21 13:31:49,971 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:32:02,917 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:32:03,921 INFO spawned: 'laravel-seeder' with pid 512
+2025-02-21 13:32:04,925 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:32:17,386 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:32:18,389 INFO spawned: 'laravel-seeder' with pid 515
+2025-02-21 13:32:19,390 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:32:42,228 WARN exited: laravel-seeder (exit status 1; not expected)
+2025-02-21 13:32:43,233 INFO spawned: 'laravel-seeder' with pid 518
+2025-02-21 13:32:44,236 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:33:06,986 WARN exited: laravel-seeder (exit status 1; not expected)
+2025-02-21 13:33:07,989 INFO spawned: 'laravel-seeder' with pid 521
+2025-02-21 13:33:08,991 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:33:21,766 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:33:22,769 INFO spawned: 'laravel-seeder' with pid 524
+2025-02-21 13:33:23,770 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:33:43,110 WARN exited: laravel-seeder (exit status 1; not expected)
+2025-02-21 13:33:44,115 INFO spawned: 'laravel-seeder' with pid 527
+2025-02-21 13:33:45,122 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:33:57,516 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:33:58,521 INFO spawned: 'laravel-seeder' with pid 530
+2025-02-21 13:33:59,524 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:34:11,917 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:34:12,921 INFO spawned: 'laravel-seeder' with pid 533
+2025-02-21 13:34:13,925 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:34:30,571 WARN exited: laravel-seeder (exit status 1; not expected)
+2025-02-21 13:34:31,576 INFO spawned: 'laravel-seeder' with pid 536
+2025-02-21 13:34:32,579 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:34:45,359 WARN exited: laravel-seeder (exit status 1; not expected)
+2025-02-21 13:34:46,364 INFO spawned: 'laravel-seeder' with pid 539
+2025-02-21 13:34:47,368 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:34:59,960 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:35:00,962 INFO spawned: 'laravel-seeder' with pid 542
+2025-02-21 13:35:01,966 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:35:14,729 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:35:15,733 INFO spawned: 'laravel-seeder' with pid 545
+2025-02-21 13:35:16,740 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:35:39,391 WARN exited: laravel-seeder (exit status 1; not expected)
+2025-02-21 13:35:40,396 INFO spawned: 'laravel-seeder' with pid 548
+2025-02-21 13:35:41,400 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:35:54,826 WARN exited: laravel-seeder (exit status 1; not expected)
+2025-02-21 13:35:55,831 INFO spawned: 'laravel-seeder' with pid 553
+2025-02-21 13:35:56,835 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:36:09,028 WARN exited: laravel-seeder (exit status 1; not expected)
+2025-02-21 13:36:10,033 INFO spawned: 'laravel-seeder' with pid 556
+2025-02-21 13:36:11,036 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:36:23,668 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:36:23,669 INFO spawned: 'laravel-seeder' with pid 559
+2025-02-21 13:36:24,670 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:36:37,017 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:36:38,021 INFO spawned: 'laravel-seeder' with pid 562
+2025-02-21 13:36:39,024 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:36:51,612 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:36:52,614 INFO spawned: 'laravel-seeder' with pid 565
+2025-02-21 13:36:53,616 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:37:16,952 WARN exited: laravel-seeder (exit status 1; not expected)
+2025-02-21 13:37:17,956 INFO spawned: 'laravel-seeder' with pid 568
+2025-02-21 13:37:18,959 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:37:31,420 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:37:32,422 INFO spawned: 'laravel-seeder' with pid 571
+2025-02-21 13:37:33,424 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:37:47,150 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:37:48,153 INFO spawned: 'laravel-seeder' with pid 574
+2025-02-21 13:37:49,155 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:38:02,900 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:38:03,902 INFO spawned: 'laravel-seeder' with pid 577
+2025-02-21 13:38:04,904 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:38:17,859 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:38:18,864 INFO spawned: 'laravel-seeder' with pid 580
+2025-02-21 13:38:19,868 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:38:37,653 WARN exited: laravel-seeder (exit status 1; not expected)
+2025-02-21 13:38:38,655 INFO spawned: 'laravel-seeder' with pid 583
+2025-02-21 13:38:39,657 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:38:52,772 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:38:53,777 INFO spawned: 'laravel-seeder' with pid 586
+2025-02-21 13:38:54,780 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:39:07,940 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:39:08,945 INFO spawned: 'laravel-seeder' with pid 589
+2025-02-21 13:39:09,949 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:39:22,723 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:39:23,727 INFO spawned: 'laravel-seeder' with pid 592
+2025-02-21 13:39:24,731 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:39:37,838 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:39:38,840 INFO spawned: 'laravel-seeder' with pid 595
+2025-02-21 13:39:39,842 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:39:52,931 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:39:53,935 INFO spawned: 'laravel-seeder' with pid 598
+2025-02-21 13:39:54,939 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:40:08,996 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:40:09,998 INFO spawned: 'laravel-seeder' with pid 601
+2025-02-21 13:40:11,000 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:40:33,867 WARN exited: laravel-seeder (exit status 1; not expected)
+2025-02-21 13:40:34,872 INFO spawned: 'laravel-seeder' with pid 604
+2025-02-21 13:40:35,876 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:40:48,788 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:40:49,793 INFO spawned: 'laravel-seeder' with pid 607
+2025-02-21 13:40:50,796 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:41:03,561 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:41:04,565 INFO spawned: 'laravel-seeder' with pid 612
+2025-02-21 13:41:05,569 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:41:28,571 WARN exited: laravel-seeder (exit status 1; not expected)
+2025-02-21 13:41:29,574 INFO spawned: 'laravel-seeder' with pid 615
+2025-02-21 13:41:30,575 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:41:53,648 WARN exited: laravel-seeder (exit status 1; not expected)
+2025-02-21 13:41:54,652 INFO spawned: 'laravel-seeder' with pid 618
+2025-02-21 13:41:55,656 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:42:08,463 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:42:09,467 INFO spawned: 'laravel-seeder' with pid 621
+2025-02-21 13:42:10,470 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:42:23,393 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:42:24,397 INFO spawned: 'laravel-seeder' with pid 624
+2025-02-21 13:42:25,399 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:42:38,364 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:42:39,367 INFO spawned: 'laravel-seeder' with pid 627
+2025-02-21 13:42:40,370 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:42:53,254 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:42:54,256 INFO spawned: 'laravel-seeder' with pid 630
+2025-02-21 13:42:55,258 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:43:08,073 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:43:09,075 INFO spawned: 'laravel-seeder' with pid 633
+2025-02-21 13:43:10,077 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:43:27,236 WARN exited: laravel-seeder (exit status 1; not expected)
+2025-02-21 13:43:28,240 INFO spawned: 'laravel-seeder' with pid 636
+2025-02-21 13:43:29,243 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:43:42,169 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:43:43,172 INFO spawned: 'laravel-seeder' with pid 639
+2025-02-21 13:43:44,175 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:44:07,519 WARN exited: laravel-seeder (exit status 1; not expected)
+2025-02-21 13:44:08,521 INFO spawned: 'laravel-seeder' with pid 642
+2025-02-21 13:44:09,525 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:44:22,463 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:44:23,465 INFO spawned: 'laravel-seeder' with pid 645
+2025-02-21 13:44:24,466 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:44:37,145 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:44:38,149 INFO spawned: 'laravel-seeder' with pid 648
+2025-02-21 13:44:39,153 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:44:52,663 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:44:53,667 INFO spawned: 'laravel-seeder' with pid 651
+2025-02-21 13:44:54,671 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:45:07,775 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:45:08,780 INFO spawned: 'laravel-seeder' with pid 654
+2025-02-21 13:45:09,783 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:45:22,461 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:45:23,463 INFO spawned: 'laravel-seeder' with pid 657
+2025-02-21 13:45:24,464 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:45:37,409 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:45:38,414 INFO spawned: 'laravel-seeder' with pid 660
+2025-02-21 13:45:39,417 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:45:52,606 WARN exited: laravel-seeder (exit status 1; not expected)
+2025-02-21 13:45:53,608 INFO spawned: 'laravel-seeder' with pid 663
+2025-02-21 13:45:54,610 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:46:07,770 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:46:08,773 INFO spawned: 'laravel-seeder' with pid 668
+2025-02-21 13:46:09,776 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:46:21,724 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:46:22,728 INFO spawned: 'laravel-seeder' with pid 671
+2025-02-21 13:46:23,732 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:46:35,469 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:46:36,473 INFO spawned: 'laravel-seeder' with pid 674
+2025-02-21 13:46:37,476 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:46:49,660 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:46:50,664 INFO spawned: 'laravel-seeder' with pid 677
+2025-02-21 13:46:51,667 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:47:03,782 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:47:04,786 INFO spawned: 'laravel-seeder' with pid 680
+2025-02-21 13:47:05,790 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:47:17,936 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:47:18,941 INFO spawned: 'laravel-seeder' with pid 683
+2025-02-21 13:47:19,945 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:47:32,276 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:47:33,280 INFO spawned: 'laravel-seeder' with pid 686
+2025-02-21 13:47:34,283 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:47:47,254 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:47:48,256 INFO spawned: 'laravel-seeder' with pid 689
+2025-02-21 13:47:49,258 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:48:01,894 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:48:02,898 INFO spawned: 'laravel-seeder' with pid 692
+2025-02-21 13:48:03,901 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:48:16,486 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:48:17,489 INFO spawned: 'laravel-seeder' with pid 695
+2025-02-21 13:48:18,490 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:48:31,353 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:48:32,356 INFO spawned: 'laravel-seeder' with pid 698
+2025-02-21 13:48:33,359 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:48:45,988 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:48:46,991 INFO spawned: 'laravel-seeder' with pid 701
+2025-02-21 13:48:47,992 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:49:00,809 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:49:01,812 INFO spawned: 'laravel-seeder' with pid 704
+2025-02-21 13:49:02,813 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:49:16,476 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:49:17,478 INFO spawned: 'laravel-seeder' with pid 707
+2025-02-21 13:49:18,479 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:49:31,056 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:49:32,059 INFO spawned: 'laravel-seeder' with pid 710
+2025-02-21 13:49:33,062 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:49:45,456 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:49:46,458 INFO spawned: 'laravel-seeder' with pid 713
+2025-02-21 13:49:47,460 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:49:59,843 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:50:00,844 INFO spawned: 'laravel-seeder' with pid 716
+2025-02-21 13:50:01,845 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:50:15,133 WARN exited: laravel-seeder (exit status 1; not expected)
+2025-02-21 13:50:16,135 INFO spawned: 'laravel-seeder' with pid 719
+2025-02-21 13:50:17,137 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-21 13:50:29,530 INFO exited: laravel-seeder (exit status 0; expected)
+2025-02-21 13:50:30,533 INFO spawned: 'laravel-seeder' with pid 722
+2025-02-21 13:50:31,536 INFO success: laravel-seeder entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
