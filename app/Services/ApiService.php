@@ -11,8 +11,8 @@ class ApiService
 
     public function __construct()
     {
-        $this->apiUrl = config('services.api.url'); // API URL
-        $this->apiKey = config('services.api.key'); // API Key
+        $this->apiUrl = config('services.api.url'); 
+        $this->apiKey = config('services.api.key'); 
     }
 
     public function fetchData($endpoint)

@@ -7,12 +7,19 @@ use Illuminate\Foundation\Console\Kernel as ConsoleKernel;
 
 class Kernel extends ConsoleKernel
 {
+    protected $commands = [
+        \App\Console\Commands\AddCompany::class,
+        \App\Console\Commands\AddAccount::class,
+        \App\Console\Commands\AddToken::class,
+        \App\Console\Commands\AddApiService::class,
+        \App\Console\Commands\FetchOrders::class,
+    ];
     /**
      * Define the application's command schedule.
      */
-    protected function schedule(Schedule $schedule): void
+    protected function schedule(\Illuminate\Console\Scheduling\Schedule $schedule)
     {
-        // $schedule->command('inspire')->hourly();
+       
     }
 
     /**
